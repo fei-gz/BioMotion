@@ -1,0 +1,5 @@
+{
+  "name": "BioMotion Arm Simulator",
+  "description": "Interactive 3D medical visualization of arm musculoskeletal mechanics with AI-powered biomechanical analysis.",
+  "requestFramePermissions": []
+}
